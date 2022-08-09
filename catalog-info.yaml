@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: zerocode
+  annotations:
+    github.com/project-slug: xpiyushdoorwar/zerocode
+spec:
+  type: other
+  lifecycle: unknown
+  owner: xpiyushdoorwar
